@@ -68,6 +68,12 @@ To build a semi-autonomous AI developer system capable of:
 - [ ] AI app generator
 - [ ] Auto deployment pipeline
 
+## 🔗 Future Integration
+
+- Claude API (for advanced code analysis)
+- OpenAI API (for content & automation)
+- n8n (for workflow orchestration)
+
 ## 📌 Status
 
 Active development – early stage AI automation system.
