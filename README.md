@@ -74,6 +74,13 @@ To build a semi-autonomous AI developer system capable of:
 - OpenAI API (for content & automation)
 - n8n (for workflow orchestration)
 
+## 🔗 Claude Integration (Planned)
+
+Claude will be used for:
+- Code analysis
+- Refactoring
+- AI development workflows
+
 ## 📌 Status
 
 Active development – early stage AI automation system.
