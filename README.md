@@ -11,6 +11,18 @@ It enables:
 - AI-assisted app generation
 - Continuous improvement loops
 
+## 🖥️ Demo
+
+Basic AI workflow simulation:
+
+- Click "Run AI Workflow"
+- System will simulate:
+  - Analysis
+  - Improvement
+  - Optimization loop
+
+(Future: real AI integration with Claude/OpenAI)
+
 ## ⚙️ Core Concept
 
 AI Development Loop:
