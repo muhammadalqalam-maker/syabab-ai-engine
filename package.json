@@ -1,0 +1,11 @@
+{
+  "name": "syabab-ai-engine",
+  "version": "1.0.0",
+  "description": "AI-powered automation engine for building intelligent applications",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "Syabab AI",
+  "license": "MIT"
+}
